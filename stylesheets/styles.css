@@ -63,6 +63,14 @@ a {
     border: 1px solid rgba(100%, 100%, 100%m, 0.8);
 }
 
+.thumbnail-item-big {
+    display: inline-block;
+    min-width: 150px;
+    max-width: 150px;
+    border: 1px solid rgb(100%, 100%, 100%);
+    border: 1px solid rgba(100%, 100%, 100%m, 0.8);
+}
+
 .thumbnail-list {
     flex: 0 1 auto;
     order: 2;
